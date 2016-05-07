@@ -90,7 +90,7 @@ namespace MyNamespace
 
 ## Questions, Issues and Contributing
 * Have a question? [Ask at Stackoverflow](http://stackoverflow.com/questions/tagged/UnMagicStrings)
-* Found an problem? [Create an issue](https://github.com/marcosbozzani/UnMagicalStrings/issues)
+* Found a problem? [Create an issue](https://github.com/marcosbozzani/UnMagicalStrings/issues)
 * Want to contribute? [Send a pull request](https://github.com/marcosbozzani/UnMagicalStrings/pulls)
 
 
